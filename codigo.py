@@ -2,8 +2,8 @@ import yt_dlp
 
 # URLs das playlists
 playlists_urls = [
-    "https://youtube.com/playlist?list=PLCJuTjldJihHbtVP8Ypr-xdDFoV1WM5p9&si=n9qgx2oU065WVBnS",
-    "https://youtube.com/playlist?list=PLCJuTjldJihFgc9gy708qs5jjnevuhg1_&si=S1WHlNv_U246o5Ti",
+    "https://youtube.com/playlist", # Link do vídeo ou playlist desejada
+    "https://youtube.com/playlist", # Mais um vídeo ou playlist
 ]
 
 # Configuração de download
